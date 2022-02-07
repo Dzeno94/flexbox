@@ -1,0 +1,112 @@
+body{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+}
+.flexing{
+display: flex;
+justify-content: center;
+text-align: left;
+}
+#div-container{
+    
+   margin-right: 20px;
+    width:600px;
+    height: 350px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.flex-container{
+  width: 300px;
+  height: 600px;
+  background-color: red;
+  border: 2px solid white;
+  border-radius: 10px;
+
+}
+ul{
+    list-style-type: none;
+    
+}
+ul li{
+    display: inline-block;
+}
+.divovi{
+border: 2px solid white;
+margin-top: 5px;
+margin-bottom: 5px;
+border-radius: 10px;
+}
+.broj{
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+}
+.broj:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+   
+   
+}
+.buttons button:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    background-color: blueviolet;
+}
+
+#div1{
+
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 10px;
+}
+#div2{
+
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 10px;
+}
+#div3{
+
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 10px;
+}
+#main{
+    display: flex;
+}
+.new-div{
+
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 10px;
+}
